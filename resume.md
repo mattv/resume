@@ -1,58 +1,57 @@
 Matt Valerio
 ============
+-----------------------------------------------------
+   *valerio.matt@gmail.com,   +1 614.432.4857*
+-----------------------------------------------------
 
----------------------     ----------------------------
-6325 Parkmeadow Lane          valerio.matt@gmail.com
-Hilliard, Ohio                614.432.4857
----------------------     ----------------------------
+---
 
 Professional Summary
 --------------------
 
-Throughout my 20 year career I have developed my ability to dissect
-and resolve complex functional and technical
-issues.  My "lead by example" approach makes me an effective technical leader and team builder. I am an efficient communicator and technology evangelist capable of bridging communication gaps among senior leadership, technical engineers and non-technical stakeholder. I am a subscriber to DevOps best practices, and a believer in the benefits of coupling infrastructure as code with cloud-native architectures. I have been developing horizontally scalable distributed systems since 1999 and am currently using my experience to leverage technologies to solve real world business problems.
+I am seasoned technology leader with a broad professional background.  Throughout my 20+ year career I have proven my ability to dissect
+and resolve complex business problems.  I am a subscriber of continous improvment best practices, and always look for pragmatic ways to fulfill business needs.  I am an effective technical leader and team builder with a belief in the power of leading by example. I am an efficient communicator and technology evangelist capable of relating to senior leadership, technical engineers and non-technical stakeholders alike.
 
 Skills
 ------
------------------      -------------------------      -------------------
-Technical Leader        Problem Solver                 Technologist
-Team builder            Passionate Technologist        Visionary
-Change Agent            Technology Evangelist          Software Engineer
------------------       ------------------------      -------------------
-
-Education
----------
-
-**1998 The Ohio State University**  
-Bachelor of Science Computer Science
-
+------------------      --------------------------      ------------------------
+ Technical Leader        Pragmatic Problem Solver        Relentless Persistance
+ Team builder            Visionary                       Software Architecture
+ Change Agent            Technology Evangelist           Software Engineering
+------------------      --------------------------      ------------------------
 
 Work History
 ----------
 
-**Software Engineer**  
-*eRetailing*, Columbus Ohio  
-July 2018 to Present  
+**Software Engineer** - July 2018 to Present  
+*eRetailing Associates*, Columbus Ohio  
 
-eRetailing is a small company with a lot of potential.  I'm a key member on a small technical team that supports the business end-to-end.  Some select projects:
+eRetailing is small company that is quickly revolutionizing the branded apparel market.  I am a senior member on a cross functional team that supports the business end-to-end.  Some select achievments include:
 
-* Created a shpping integration engine that supports the full functionality offered via the UPS, FedEx, DHL, and USPS shipping API's
-* End-To-End development of a order import system.  This system is used by customer service representatives to create orders in the eRetialing order managment system from disparate customer provided order spreadsheet.
-* Implemented a regression and integration testing framework using Watir and RSpec
-* Daily support of large scale AWS based custom eCommerce System.
+* Transformed shipping into a profit center with a rate shopping engine that utilizes the UPS, FedEx, DHL, and USPS shipping API's.
+* Increased revenues by easing new customer adoption. This was achieved by the end-to-end development of a order import system.  This system is leveraged by low cost customer service representatives to import and track orders from disparate customer provided order data.
+* Improved release reliabilty by implementing a regression and integration testing framework using Watir and RSpec
+* Daily support of an ever evolving large scale AWS based custom eCommerce System.
 
-**Partner**  
+**Partner** - Oct 2017 to Present  
 *Hexad LLC*, Columbus Ohio  
-October 2017 to Present  
 
-One of 6 partners who Learning Managment System
+A small group of professionals working to bring a behavorial health learning management product to market.  
 
-**National Services Director**  
+* Vue.js based progressive web application currently supporting a growing user base
+* Continous integration and deployment
+* Auth0 integration providing one-time passwordless authentication and support for any manger single sign on provider
+* Easy integration and adoption via a standarized configuration for training content and user management
+* Ability to traverse markets via plugable training content
+* AWS Lambda based serverless backend
+
+**National Consulting Director** - July 2015 to July 2018  
+**Director of Presales Engineering** - Oct 2012 to July 2015  
+**Midwest Regional Product manager** - Dec 2011 to Oct 2012  
+**Solutions Architect** - Feb 2011 to Dec 2011  
 *AdvizeX Technologies*, Columbus Ohio  
-February 2011 to July 2018
 
-During my tenure at Rolta Advizex I held several technology focused roles that ranged from a delivery focused solutions architect to National Services Director. In these roles my responsibilities have included:
+During my tenure at Rolta Advizex I held positions with progressively expanding roles ranging from a delivery focused solutions architect to National Services Director. In these roles my responsibilities have included:
 
 * Building and managing high performing teams of both presales and delivery consultants
 * Advising customers on best practices for leveraging technology to solve complicated business problems
@@ -61,33 +60,33 @@ During my tenure at Rolta Advizex I held several technology focused roles that r
 * Effectively communicate with sales and technical resources
 * Understanding and evangelizing technology
 
-**Principal**  
+**Principal** Jan 2001 to Feb 2011  
 *ConstruXML Ltd*, Columbus, OH  
-January 2001 to February 2011  
 
 * Migrated large scale CORBA system to a Service Oriented Architecture. The migration included implementing an iterative software development process, as well as all the necessary refactoring to go from the fine-grained CORBA interfaces to the more coarse-grained SOA interfaces.  (corba, cold fusion, java, hessian/burlap, jsf, spring, cruise control)
 * Designed and developed a location-based services platform to allow for the quick and easy deployment of content to mobile users. The platform provides a common set of location-services, custom extension points, and a faceless data broker that facilitates delivery of content to a wide variety of devices and standards. (java, kivera location engine, WML, SMS, brew, XHTML and HTML)
 * Designed and developed a J2ME application used to provide driving direction and track field employee locations. (J2ME,java,tomcat,kivera)
 * Designed and developed a C# win 32 work order management system for a construction subcontractor. The system includes standard document management functionality as well as reporting and PDA support. (C#, sql-server)
 
-**Senior Software Engineer**  
+**Senior Software Engineer** Aug 2008 to Feb 2011  
 *Inventive Communications*, Westerville, OH  
-August 2008 to February 2011
-
 
  * Developed software engineering custom tooling, standards and practices. (SCRUM, trac, autotools, make, debian, hudson, bash, subversion)
 * Implemented, customized and maintained brand-able system to support the development of advertising campaigns. Subsystems include; asset management, workflow, ticketing, reporting, and a skinnable interface. (trac, xinet webnative suite, python, php, html, jquery, css, apache, sqlite, mysql, sqlserver)
 
-**January 2003 to April 2005**
-*Armada Group Inc. Westerville, OH*
-Senior Architect  
+**Senior Architect** Jan 2003 to April 2005  
+*Armada Group Inc.* Westerville, OH
 
 * Designed, developed, and managed a SAAS based system for the public safety sector. This system is used by over 35 agencies in multiple states and provides real-time data sharing, document aggregation and management, fingerprint capturing and matching, location based mapping, disparate system integration, intuitive thin client front end, and role based access control. (java, rest, xml-rpc, tomcat, struts, jboss, sql server, xml, xslt, javascript, ajax, zeus zxtm)
 * Designed and Developed systems and processes necessary to gather and process production logs from a large scale distributed system. (java, tomcat, struts, jboss, xml-rpc, sql server, t-sql, jcifs)
 * Improved system reliability and availability by implementing continuous integration and deployment of a large scale distributed system. (ant, hudson, subversion, bash, junit)
 * Successfully managed system migration from Cisco Local Directors to Zeus ZXTM 3.0. Environment went from two load-balanced servers to 15 servers grouped in 5 different clusters.
 
+Education
+---------
 
+**1998 The Ohio State University**  
+Bachelor of Science Computer Science
 
 Hobies/Interests
 ----------------
