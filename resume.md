@@ -8,7 +8,7 @@ Professional Summary
 --------------------
 
 I am seasoned technology leader with a broad professional background.  Throughout my 20+ year career I have proven my ability to dissect
-and resolve complex business problems.  I am a subscriber of continuous improvement best practices, and always look for pragmatic ways to fulfill business needs.  I am an effective technical leader and team builder with a belief in the power of leading by example. I am an efficient communicator and technology evangelist capable of relating to senior leadership, technical engineers and non-technical stakeholders alike.
+and resolve complex business problems.  I am a practitioner of continuous improvement best practices, and always look for pragmatic ways to fulfill business needs.  I am an effective technical leader and team builder with a belief in the power of leading by example. I am an efficient communicator and technology evangelist capable of relating to senior leadership, technical engineers and non-technical stakeholders alike.
 
 Skills
 ------
@@ -37,7 +37,6 @@ eRetailing is small company that is quickly revolutionizing the custom branded a
 A small group of professionals working to bring a behavioral health learning management product to market.  
 
 * Vue.js based progressive web application currently supporting a growing user base
-* Continuous integration and deployment
 * Auth0 integration providing one-time passwordless authentication and support for any manger single sign on provider
 * Easy integration and adoption via a standardized configuration for training content and user management
 * Ability to traverse markets via plugable training content
@@ -61,7 +60,7 @@ During my tenure at Rolta Advizex I held positions with progressively expanding 
 **Principal** Jan 2001 to Feb 2011  
 *ConstruXML Ltd*, Columbus, OH  
 
-* Migrated large scale CORBA system to a Service Oriented Architecture. The migration included implementing an iterative software development process, as well as all the necessary refactoring to go from the fine-grained CORBA interfaces to the more coarse-grained SOA interfaces
+* Migrated large scale CORBA system to a modern service oriented architecture. The migration included implementing an iterative software development process, as well as all the necessary refactoring to go from the fine-grained CORBA interfaces to the more coarse-grained SOA interfaces
 * Designed and developed a location-based services platform to allow for the quick and easy deployment of content to mobile users. The platform provides a common set of location-services, custom extension points, and a faceless data broker that facilitates delivery of content to a wide variety of devices and standards
 * Designed and developed a J2ME application used to provide driving direction and track field employee locations
 * Designed and developed a C# win 32 work order management system for a construction subcontractor. The system includes standard document management functionality as well as reporting and PDA support
