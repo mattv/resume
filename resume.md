@@ -10,14 +10,14 @@ Professional Summary
 --------------------
 
 I am seasoned technology leader with a broad professional background.  Throughout my 20+ year career I have proven my ability to dissect
-and resolve complex business problems.  I am a subscriber of continous improvment best practices, and always look for pragmatic ways to fulfill business needs.  I am an effective technical leader and team builder with a belief in the power of leading by example. I am an efficient communicator and technology evangelist capable of relating to senior leadership, technical engineers and non-technical stakeholders alike.
+and resolve complex business problems.  I am a subscriber of continuous improvement best practices, and always look for pragmatic ways to fulfill business needs.  I am an effective technical leader and team builder with a belief in the power of leading by example. I am an efficient communicator and technology evangelist capable of relating to senior leadership, technical engineers and non-technical stakeholders alike.
 
 Skills
 ------
 ------------------      --------------------------      ------------------------
- Technical Leader        Pragmatic Problem Solver        Relentless Persistance
- Team builder            Visionary                       Software Architecture
- Change Agent            Technology Evangelist           Software Engineering
+ Technical Leader        Pragmatic Problem Solver        Relentless Persistence
+ Team Builder            Visionary                       Software Architecture
+ Change Agent            Technology Evangelist           Software Engineer
 ------------------      --------------------------      ------------------------
 
 Work History
@@ -26,24 +26,24 @@ Work History
 **Software Engineer** - July 2018 to Present  
 *eRetailing Associates*, Columbus Ohio  
 
-eRetailing is small company that is quickly revolutionizing the branded apparel market.  I am a senior member on a cross functional team that supports the business end-to-end.  Some select achievments include:
+eRetailing is small company that is quickly revolutionizing the custom branded apparel market.  I am a senior member on a cross functional team that supports the business end-to-end.  Some select achievements include:
 
-* Transformed shipping into a profit center with a rate shopping engine that utilizes the UPS, FedEx, DHL, and USPS shipping API's.
-* Increased revenues by easing new customer adoption. This was achieved by the end-to-end development of a order import system.  This system is leveraged by low cost customer service representatives to import and track orders from disparate customer provided order data.
-* Improved release reliabilty by implementing a regression and integration testing framework using Watir and RSpec
-* Daily support of an ever evolving large scale AWS based custom eCommerce System.
+* Transformed shipping into a profit center with a shipping engine that utilizes the UPS, FedEx, DHL, and USPS shipping API's
+* Increased revenues by easing new customer adoption with the end-to-end development of a order import system.  This system is leveraged by low cost customer service representatives to import and track orders from disparate customer provided order data
+* Improved reliabilty by implementing a regression and integration testing framework using Watir and RSpec
+* Daily support of an evolving large scale, AWS based, custom eCommerce system
 
 **Partner** - Oct 2017 to Present  
 *Hexad LLC*, Columbus Ohio  
 
-A small group of professionals working to bring a behavorial health learning management product to market.  
+A small group of professionals working to bring a behavioral health learning management product to market.  
 
 * Vue.js based progressive web application currently supporting a growing user base
-* Continous integration and deployment
+* Continuous integration and deployment
 * Auth0 integration providing one-time passwordless authentication and support for any manger single sign on provider
-* Easy integration and adoption via a standarized configuration for training content and user management
+* Easy integration and adoption via a standardized configuration for training content and user management
 * Ability to traverse markets via plugable training content
-* AWS Lambda based serverless backend
+* AWS Lambda based serverless back-end
 
 **National Consulting Director** - July 2015 to July 2018  
 **Director of Presales Engineering** - Oct 2012 to July 2015  
@@ -58,7 +58,7 @@ During my tenure at Rolta Advizex I held positions with progressively expanding 
 * Building and executing go to market strategies
 * Building and delivering cloud focused strategic consulting engagements
 * Effectively communicate with sales and technical resources
-* Understanding and evangelizing technology
+* Understanding and evangelizing enterprise technology solutions
 
 **Principal** Jan 2001 to Feb 2011  
 *ConstruXML Ltd*, Columbus, OH  
@@ -88,7 +88,7 @@ Education
 **1998 The Ohio State University**  
 Bachelor of Science Computer Science
 
-Hobies/Interests
+Hobbies/Interests
 ----------------
 
 * Baseball
