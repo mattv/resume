@@ -14,7 +14,7 @@ Skills
 ------
 ------------------      --------------------------      ------------------------
  Technical Leader        Pragmatic Problem Solver        Relentless Persistence
- Team Builder            Visionary                       Software Architecture
+ Team Builder            Thought Leader                  Software Architecture
  Change Agent            Technology Evangelist           Software Engineer
 ------------------      --------------------------      ------------------------
 
@@ -37,7 +37,7 @@ eRetailing is small company that is quickly revolutionizing the custom branded a
 A small group of professionals working to bring a behavioral health learning management product to market.  
 
 * Vue.js based progressive web application currently supporting a growing user base
-* Auth0 integration providing one-time passwordless authentication and support for any manger single sign on provider
+* Auth0 integration providing one-time passwordless authentication and support for any major single sign on provider
 * Easy integration and adoption via a standardized configuration for training content and user management
 * Ability to traverse markets via plugable training content
 * AWS Lambda based serverless back-end
