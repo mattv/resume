@@ -1,22 +1,3 @@
-Matt Valerio
-============  
------------------------------    ------------------------
-  *valerio.matt@gmail.com*       *+1 614.432.4857*
------------------------------    ------------------------
-
-Professional Summary
---------------------
-
-Motivated and seasoned technologist with a broad professional background.  Proven ability to dissect and resolve complex business problems.  Practitioner of continuous improvement best practices.  Effective technical leader with a belief in the power of leading by example. Collaborative team builder capable of relating to senior leadership, technical engineers and non-technical stakeholders alike.  
-
-Skills
-------
-------------------      --------------------------      --------------------------
- Technical Leader        Pragmatic Problem Solver        Relentlessly Persistent
- Team Builder            Thought Leader                  Application Delivery
- Change Agent            Technology Evangelist           Software Architecture
-------------------      --------------------------      --------------------------
-
 Work History
 ----------
 
@@ -58,6 +39,7 @@ Work History
 * Migrated large scale CORBA system to a modern service oriented architecture. The migration included implementing an iterative software development process, as well as all the necessary refactoring to go from the fine-grained CORBA interfaces to the more coarse-grained SOA interfaces
 * Designed and developed a location-based services platform to allow for the quick and easy deployment of content to mobile users. The platform provides a common set of location-services, custom extension points, and a faceless data broker that facilitates delivery of content to a wide variety of devices and standards
 * Designed and developed a J2ME application used to provide driving direction and track field employee locations
+* Designed and developed a C# win 32 work order management system for a construction subcontractor. The system includes standard document management functionality as well as reporting and PDA support
 
  * Developed software engineering custom tooling, standards and practices
 * Implemented, customized and maintained brand-able system to support the development of advertising campaigns. Subsystems include; asset management, workflow, ticketing, reporting, and a skinnable interface
@@ -69,9 +51,3 @@ Work History
 * Designed and Developed systems and processes necessary to gather and process production logs from a large scale distributed system
 * Improved system reliability and availability by implementing continuous integration and deployment of a large scale distributed system
 * Successfully managed system migration from Cisco Local Directors to Zeus ZXTM 3.0. Environment went from two load-balanced servers to 15 servers grouped in 5 different clusters
-
-Education
----------
-
-**1998 The Ohio State University**  
-Bachelor of Science Computer Science
