@@ -12,9 +12,9 @@ Motivated and seasoned technologist with a broad professional background.  Prov
 Skills
 ------
 ------------------      --------------------------      --------------------------
- Technical Leader        Pragmatic Problem Solver        Relentlessly Persistent
- Team Builder            Thought Leader                  Application Delivery
- Change Agent            Technology Evangelist           Software Architecture
+ Technical Leader        Pragmatic Problem Solver        Software Architecture
+ Team Builder            Relentlessly Persistent         Software Engineering
+ Change Agent            Technology Evangelist           Application Delivery
 ------------------      --------------------------      --------------------------
 
 Work History
