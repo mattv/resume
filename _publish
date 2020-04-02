@@ -1,0 +1,16 @@
+#!/bin/bash
+
+pandoc markdown/resume.md -o index.html -t html5 \
+  -smart \
+  --standalone \
+  --email-obfuscation=references \
+  --data-dir=_pandoc \
+  --include-in-header=_pandoc/header_styles.html \
+  --include-before-body=_pandoc/header.html \
+  --include-after-body=_pandoc/footer.html \
+  --variable="pagetitle:Resume :: Jack Senechal"
+
+pandoc markdown/resume.md -o resume.odt --reference-doc=_pandoc/reference.odt
+
+libreoffice --headless --convert-to doc resume.odt
+libreoffice --headless --convert-to pdf resume.odt

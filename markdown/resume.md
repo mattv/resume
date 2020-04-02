@@ -1,13 +1,33 @@
 Matt Valerio
 ============  
------------------------------    ------------------------
-  *valerio.matt@gmail.com*       *+1 614.432.4857*
------------------------------    ------------------------
+Email: <valerio.matt@gmail.com>  
+Phone: +1 614.432.4857  
 
 Professional Summary
 --------------------
 
-Motivated and seasoned technologist with a broad professional background.  Proven ability to dissect and resolve complex business problems.  Practitioner of continuous improvement best practices.  Effective technical leader with a belief in the power of leading by example. Collaborative team builder capable of relating to senior leadership, technical engineers and non-technical stakeholders alike.  
+Motivated and seasoned technologist with a broad professional background.  Proven ability to dissect and resolve complex business problems.  Practitioner of continuous improvement best practices.  Strong technical leader with a belief in the power of leading by example. Collaborative team builder capable of relating to senior leadership, technical engineers and non-technical stakeholders alike.  
+
+*Software engineer with strong people and management skills, seeking a lead developer or
+engineering manager role.*
+
+As an engineer I care deeply about quality and precision, not only at the code level but throughout
+the product. I balance attention to detail with a drive to ship, because a product is only as good
+as its usefulness to actual people. I enjoy creating lucid user experiences and designing robust
+software architectures.
+
+As a team leader I bring empathy, solidity, and clarity of communication. I enjoy optimizing
+processes and refining infrastructure so teams are faced with minimal repetitive load and can focus
+on high-flying creativity.
+
+I seek a vibrant environment of innovation, a strong team practicing Agile methodologies, and a
+culture of excellence. It is more than a day job, it is a platform to make a meaningful contribution
+at a global scale.
+
+AWS Certification
+-------------
+**AWS Certified Developer** - October 2017  
+Validation Number: *F5N0YZS12N141Z55*
 
 Skills
 ------
@@ -32,8 +52,7 @@ Work History
 **Partner** - Oct 2017 to Present  
 *Hexad LLC*, Columbus Ohio  
 
-* Developed a behavioral health learning meanagement system.  Officially released in July of 2019 and currently supporting over 1500 users.
-* Vue.js based progressive web application currently supporting a growing user base
+* Developed a Vue.js based behavioral health learning meanagement system currently supporting a growing user base
 * Auth0 integration providing one-time passwordless authentication and support for any major single sign on provider
 * Easy integration and adoption via a standardized configuration for training content and user management
 * Ability to traverse markets via plugable training content
@@ -70,8 +89,8 @@ Work History
 * Improved system reliability and availability by implementing continuous integration and deployment of a large scale distributed system
 * Successfully managed system migration from Cisco Local Directors to Zeus ZXTM 3.0. Environment went from two load-balanced servers to 15 servers grouped in 5 different clusters
 
-Education
----------
+Education                                            
+---------                                            
 
-**1998 The Ohio State University**  
-Bachelor of Science Computer Science
+**The Ohio State University**                        
+Bachelor of Science in Computer Science                 
