@@ -8,22 +8,6 @@ Professional Summary
 
 Motivated and seasoned technologist with a broad professional background.  Proven ability to dissect and resolve complex business problems.  Practitioner of continuous improvement best practices.  Strong technical leader with a belief in the power of leading by example. Collaborative team builder capable of relating to senior leadership, technical engineers and non-technical stakeholders alike.  
 
-*Software engineer with strong people and management skills, seeking a lead developer or
-engineering manager role.*
-
-As an engineer I care deeply about quality and precision, not only at the code level but throughout
-the product. I balance attention to detail with a drive to ship, because a product is only as good
-as its usefulness to actual people. I enjoy creating lucid user experiences and designing robust
-software architectures.
-
-As a team leader I bring empathy, solidity, and clarity of communication. I enjoy optimizing
-processes and refining infrastructure so teams are faced with minimal repetitive load and can focus
-on high-flying creativity.
-
-I seek a vibrant environment of innovation, a strong team practicing Agile methodologies, and a
-culture of excellence. It is more than a day job, it is a platform to make a meaningful contribution
-at a global scale.
-
 AWS Certification
 -------------
 **AWS Certified Developer** - October 2017  
