@@ -1,7 +1,8 @@
 Matt Valerio
 ============  
-Email: <valerio.matt@gmail.com>  
-Phone: +1 614.432.4857  
+------------------------------------   -------------------------
+  Email: <valerio.matt@gmail.com>      Phone: +1 614.432.4857  
+------------------------------------   -------------------------
 
 Professional Summary
 --------------------
@@ -36,8 +37,8 @@ Work History
 **Partner** - Oct 2017 to Present  
 *Hexad LLC*, Columbus Ohio  
 
-* Developed a Vue.js based behavioral health learning meanagement system currently supporting a growing user base
-* Auth0 integration providing one-time passwordless authentication and support for any major single sign on provider
+* Developed a Vue.js on AWS based behavioral health learning meanagement system currently supporting a growing user base
+* Auth0 integration providing one-time passwordless authentication and support for any major single sign-on provider
 * Easy integration and adoption via a standardized configuration for training content and user management
 * Ability to traverse markets via plugable training content
 * AWS Lambda based serverless back-end
@@ -52,18 +53,14 @@ Work History
 * Effectively communicated with sales and technical resources
 * Evangelized enterprise technology solutions
 
-**Senior Software Engineer** Aug 2008 to Feb 2011  
-*Inventive Communications*, Westerville, OH  
-
-**Principal** Jan 2001 to Feb 2011  
+**Principal** Jan 2005 to Feb 2011  
 *ConstruXML Ltd*, Columbus, OH  
 
 * Migrated large scale CORBA system to a modern service oriented architecture. The migration included implementing an iterative software development process, as well as all the necessary refactoring to go from the fine-grained CORBA interfaces to the more coarse-grained SOA interfaces
-* Designed and developed a location-based services platform to allow for the quick and easy deployment of content to mobile users. The platform provides a common set of location-services, custom extension points, and a faceless data broker that facilitates delivery of content to a wide variety of devices and standards
+* Designed and developed a location-based services platform to allow for the quick and easy deployment of content to mobile users. The platform provides a common set of location services, custom extension points, and a faceless data broker that facilitates delivery of content to a wide variety of devices and standards
 * Designed and developed a J2ME application used to provide driving direction and track field employee locations
-
- * Developed software engineering custom tooling, standards and practices
-* Implemented, customized and maintained brand-able system to support the development of advertising campaigns. Subsystems include; asset management, workflow, ticketing, reporting, and a skinnable interface
+* Developed software engineering custom tooling, standards and practices
+* Implemented, customized and maintained a brandable system to support the development of advertising campaigns. Subsystems include; asset management, workflow, ticketing, reporting, and a skinnable interface
 
 **Senior Architect** Jan 2003 to April 2005  
 *Armada Group Inc.* Westerville, OH
