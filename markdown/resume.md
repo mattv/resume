@@ -53,7 +53,7 @@ Work History
 * Effectively communicated with sales and technical resources
 * Evangelized enterprise technology solutions
 
-**Principal** Jan 2005 to Feb 2011  
+**Principal** April 2005 to Feb 2011  
 *ConstruXML Ltd*, Columbus, OH  
 
 * Migrated large scale CORBA system to a modern service oriented architecture. The migration included implementing an iterative software development process, as well as all the necessary refactoring to go from the fine-grained CORBA interfaces to the more coarse-grained SOA interfaces
