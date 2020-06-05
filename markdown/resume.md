@@ -22,20 +22,34 @@ Skills
  Change Agent            Technology Evangelist           Application Delivery
 ------------------      --------------------------      --------------------------
 
+Technologies
+------------
+------------   --------   ------------   ---------------------- 
+ AWS            Node       Vue.js         Relational Databases
+ Serverless     Java       React.js       NoSql Databases
+ Auth0          Perl       JavaScript     Message Queues
+ Docker         Ruby       jQuery         SQL
+ REST/RPC       Python     AJAX           GraphQL
+------------   --------   ------------   ---------------------- 
+
 Work History
 ----------
 
 **Software Engineer** - July 2018 to Present  
 *eRetailing Associates*, Columbus Ohio  
 
+ >AWS, Perl, Ruby, Docker, Mojolicious, React.js, MySql, JavaScript, Jquery, AJAX, REST, JSON, SOAP, Jenkins, Watir, RSpec
+
 * Senior member on a cross functional team that supports the business end-to-end
 * Transformed shipping into a profit center with a shipping engine that utilizes the UPS, FedEx, DHL, and USPS shipping API's
 * Increased revenues by easing new customer adoption with the end-to-end development of a order import system.  This system is leveraged by low cost customer service representatives to import and track orders from disparate customer provided order data
-* Improved reliabilty by implementing a regression and integration testing framework using Watir and RSpec
+* Improved reliability by implementing a regression and integration testing framework using Watir and RSpec
 * Daily support of an evolving large scale, AWS based, custom eCommerce system
 
 **Partner** - Oct 2017 to Present  
 *Hexad LLC*, Columbus Ohio  
+
+ >AWS, Vue.js, Auth0, Serverless, DynamoDB, GraphQL, Qt, AWS Amplify
 
 * Developed a Vue.js on AWS based behavioral health learning meanagement system currently supporting a growing user base
 * Auth0 integration providing one-time passwordless authentication and support for any major single sign-on provider
@@ -46,15 +60,19 @@ Work History
 **National Consulting Director** - Feb 2011 to July 2018  
 *AdvizeX Technologies*, Columbus Ohio  
 
+ >vCloud Suite, Docker, Kubernetes, Pivotal Cloud Foundry, Grails, RabbitMQ, Sharepoint, Enterprise Servers, Storage and Networking
+
 * Built and managed high performing teams of presales and delivery consultants
 * Advised customers on best practices for leveraging technology to solve complicated business problems
 * Built and executed go to market strategies
-* Built and deliverd cloud focused strategic consulting engagements
+* Built and delivered cloud focused strategic consulting engagements
 * Effectively communicated with sales and technical resources
 * Evangelized enterprise technology solutions
 
 **Principal** April 2005 to Feb 2011  
 *ConstruXML Ltd*, Columbus, OH  
+
+ >Java, Python, Ruby, JBOSS, Tomcat, GlassFish, Tapestry, Oracle, MySql, SqlServer, Casandra, JMS, Bash, Make, AJAX, REST, JSON, SOAP, CORBA, Maven, Hudson, ANT
 
 * Migrated large scale CORBA system to a modern service oriented architecture. The migration included implementing an iterative software development process, as well as all the necessary refactoring to go from the fine-grained CORBA interfaces to the more coarse-grained SOA interfaces
 * Designed and developed a location-based services platform to allow for the quick and easy deployment of content to mobile users. The platform provides a common set of location services, custom extension points, and a faceless data broker that facilitates delivery of content to a wide variety of devices and standards
@@ -64,6 +82,8 @@ Work History
 
 **Senior Architect** Jan 2003 to April 2005  
 *Armada Group Inc.* Westerville, OH
+
+ >Java, JavaScript, Tomcat, MySql, AJAX, REST, JSON, XSL, Hudson, ANT
 
 * Designed, developed, and managed a SAAS based system for the public safety sector. This system is used by over 35 agencies in multiple states and provides real-time data sharing, document aggregation and management, fingerprint capturing and matching, location based mapping, disparate system integration, intuitive thin client front end, and role based access control
 * Designed and Developed systems and processes necessary to gather and process production logs from a large scale distributed system
