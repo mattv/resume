@@ -34,17 +34,15 @@ Technologies
 
 Work History
 ----------
+**Senior Technology Consultant** - September 2020 to Present  
+*Mediu, Inc.*, Delaware Ohio  
 
-**Software Engineer** - July 2018 to Present  
-*eRetailing Associates*, Columbus Ohio  
+>Vue.js, Java, Spring Boot, Slack SDK for Java, Genesys Engage, OAuth2, Junit, Mockito
 
- >AWS, Perl, Ruby, Docker, Mojolicious, React.js, MySql, JavaScript, Jquery, AJAX, REST, JSON, SOAP, Jenkins, Watir, RSpec
-
-* Senior member on a cross functional team that supports the business end-to-end
-* Transformed shipping into a profit center with a shipping engine that utilizes the UPS, FedEx, DHL, and USPS shipping API's
-* Increased revenues by easing new customer adoption with the end-to-end development of a order import system.  This system is leveraged by low cost customer service representatives to import and track orders from disparate customer provided order data
-* Improved reliability by implementing a regression and integration testing framework using Watir and RSpec
-* Daily support of an evolving large scale, AWS based, custom eCommerce system
+* Work with sales executive and customers in support of the sales process.
+* Sold and delivered cloud migration strategic consulting engagement.
+* Developed an integration between Slack and the Genesys chat service using Spring Boot and a custom Slack Bot. 
+* Built a brandable integration with the Genesys Chat Widget.  The integration supports over 50 brands across 4 distinct business units. 
 
 **Partner** - Oct 2017 to Present  
 *Hexad LLC*, Columbus Ohio  
@@ -56,6 +54,17 @@ Work History
 * Easy integration and adoption via a standardized configuration for training content and user management
 * Ability to traverse markets via plugable training content
 * AWS Lambda based serverless back-end
+
+**Software Engineer** - July 2018 to September 2020  
+*eRetailing Associates*, Columbus Ohio  
+
+ >AWS, Perl, Ruby, Docker, Mojolicious, React.js, MySql, JavaScript, Jquery, AJAX, REST, JSON, SOAP, Jenkins, Watir, RSpec
+
+* Senior member on a cross functional team that supports the business end-to-end
+* Transformed shipping into a profit center with a shipping engine that utilizes the UPS, FedEx, DHL, and USPS shipping API's
+* Increased revenues by easing new customer adoption with the end-to-end development of a order import system.  This system is leveraged by low cost customer service representatives to import and track orders from disparate customer provided order data
+* Improved reliability by implementing a regression and integration testing framework using Watir and RSpec
+* Daily support of an evolving large scale, AWS based, custom eCommerce system
 
 **National Consulting Director** - Feb 2011 to July 2018  
 *AdvizeX Technologies*, Columbus Ohio  
@@ -75,7 +84,7 @@ Work History
  >Java, Python, Ruby, JBOSS, Tomcat, GlassFish, Tapestry, Oracle, MySql, SqlServer, Casandra, JMS, Bash, Make, AJAX, REST, JSON, SOAP, CORBA, Maven, Hudson, ANT
 
 * Migrated large scale CORBA system to a modern service oriented architecture. The migration included implementing an iterative software development process, as well as all the necessary refactoring to go from the fine-grained CORBA interfaces to the more coarse-grained SOA interfaces
-* Designed and developed a location-based services platform to allow for the quick and easy deployment of content to mobile users. The platform provides a common set of location services, custom extension points, and a faceless data broker that facilitates delivery of content to a wide variety of devices and standards
+* Designed and developed a location-based services platform to allow for the quick and easy deployment of content to mobile users. The platform provides a common set of location services, custom extension points, and a data broker that facilitates delivery of content to a wide variety of devices and standards
 * Designed and developed a J2ME application used to provide driving direction and track field employee locations
 * Developed software engineering custom tooling, standards and practices
 * Implemented, customized and maintained a brandable system to support the development of advertising campaigns. Subsystems include; asset management, workflow, ticketing, reporting, and a skinnable interface
