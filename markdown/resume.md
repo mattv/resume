@@ -37,12 +37,12 @@ Work History
 **Senior Technology Consultant** - September 2020 to Present  
 *Mediu, Inc.*, Delaware Ohio  
 
->Vue.js, Java, Spring Boot, Slack SDK for Java, Genesys Engage, OAuth2, Junit, Mockito
+>Vue.js, Java, Spring Boot, Slack SDK for Java, MS Teams API, Google Chat API, AWS, Ansible, Containers, Genesys Engage, OAuth2, Junit, Mockito
 
-* Work with sales executive and customers in support of the sales process.
+* Developed an integration between Genesys chat service and multiple messaging services.  Messaging services include Slack, MS Teams, and Google Hangouts. 
+* Built a brandable extension to the Genesys Chat Widget.  The integration supports over 50 brands across 4 distinct business units. 
+* Work with sales executives and customers in support of the sales and delivery process.
 * Sold and delivered cloud migration strategic consulting engagement.
-* Developed an integration between Slack and the Genesys chat service using Spring Boot and a custom Slack Bot. 
-* Built a brandable integration with the Genesys Chat Widget.  The integration supports over 50 brands across 4 distinct business units. 
 
 **Partner** - Oct 2017 to Present  
 *Hexad LLC*, Columbus Ohio  
@@ -50,10 +50,8 @@ Work History
  >AWS, Vue.js, Auth0, Serverless, DynamoDB, GraphQL, Qt, AWS Amplify
 
 * Developed a Vue.js on AWS based behavioral health learning meanagement system currently supporting a growing user base
-* Auth0 integration providing one-time passwordless authentication and support for any major single sign-on provider
-* Easy integration and adoption via a standardized configuration for training content and user management
-* Ability to traverse markets via plugable training content
-* AWS Lambda based serverless back-end
+* Delivered Auth0 integration providing one-time passwordless authentication and support for any major single sign-on provider
+* Architected and Implemented AWS Lambda based serverless back-end
 
 **Software Engineer** - July 2018 to September 2020  
 *eRetailing Associates*, Columbus Ohio  
@@ -69,13 +67,12 @@ Work History
 **National Consulting Director** - Feb 2011 to July 2018  
 *AdvizeX Technologies*, Columbus Ohio  
 
- >vCloud Suite, Docker, Kubernetes, Pivotal Cloud Foundry, Grails, RabbitMQ, Sharepoint, Enterprise Servers, Storage and Networking
+ >Docker, Kubernetes, Terraform, Ansible, Pivotal Cloud Foundry, Grails, RabbitMQ, vCloud Suite, Sharepoint, Enterprise Servers, Storage and Networking
 
+* Delivered large scale cloud migration projects primarily from traditional on-premise virtualized environments to AWS, Azure and GCP 
+* Built and delivered cloud focused strategic consulting engagements
 * Built and managed high performing teams of presales and delivery consultants
 * Advised customers on best practices for leveraging technology to solve complicated business problems
-* Built and executed go to market strategies
-* Built and delivered cloud focused strategic consulting engagements
-* Effectively communicated with sales and technical resources
 * Evangelized enterprise technology solutions
 
 **Principal** April 2005 to Feb 2011  
